@@ -1,7 +1,6 @@
 # vue-i18n
 
-> A Vue.js project
-
+> 使用vue-i18n来实现多语言切换功能
 ## Build Setup
 
 ``` bash
